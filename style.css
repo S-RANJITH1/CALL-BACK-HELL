@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(116, 208, 177);
+    color: rgb(198, 9, 47);
+}
+span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bolder;
+    font-size:50px;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    margin:300px auto;
+}
